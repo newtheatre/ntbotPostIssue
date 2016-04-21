@@ -1,0 +1,5 @@
+*.pyc
+env/
+dist/
+ntbotPostIssue.zip
+src/secret.py
